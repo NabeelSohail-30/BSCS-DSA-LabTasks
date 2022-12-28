@@ -1,2 +1,4 @@
-﻿  Labb05_Task03.cpp
+﻿  Lab12_Task02.cpp
+c:\users\user\desktop\dsa lab\dsa_labtasks\dsa_labtasks\lab12_task02.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\user\desktop\dsa lab\dsa_labtasks\dsa_labtasks\lab12_task02.cpp(32): warning C4018: '<': signed/unsigned mismatch
   DSA_LabTasks.vcxproj -> C:\Users\User\Desktop\DSA Lab\DSA_LabTasks\Debug\DSA_LabTasks.exe
