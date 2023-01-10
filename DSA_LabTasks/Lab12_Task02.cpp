@@ -1,3 +1,8 @@
+/*
+	Lab 12 Task 02
+	Implementation of Graph using Adjacency List
+*/
+
 #include <iostream>
 #include <vector>
 

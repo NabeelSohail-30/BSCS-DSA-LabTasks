@@ -1,3 +1,8 @@
+/*
+	Lab 06 Task
+	Linked List Implementation with Operations
+*/
+
 #include <iostream>
 using namespace std;
 

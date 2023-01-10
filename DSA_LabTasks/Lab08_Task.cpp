@@ -1,3 +1,8 @@
+/*
+	Lab 08 Task
+	Array Implementation of Queue
+*/
+
 #include <iostream>
 using namespace std;
 

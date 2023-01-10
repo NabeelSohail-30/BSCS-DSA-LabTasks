@@ -1,3 +1,8 @@
+/*
+	Lab 09 Task
+	Program to create a Tree
+*/
+
 #include <iostream>
 
 using namespace std;
@@ -31,6 +36,17 @@ void insertNode(Node*& root, int data) {
 	}
 }
 
+void displayTree(Node* root) {
+	if (root == nullptr) {
+		return;
+	}
+
+	cout << root->data << endl;
+	displayTree(root->left);
+	displayTree(root->right);
+}
+
+
 int main() {
 	// Create an empty tree
 	Node* root = nullptr;
@@ -43,6 +59,8 @@ int main() {
 	insertNode(root, 20);
 	insertNode(root, 59);
 	insertNode(root, 65);
+
+	displayTree(root);
 
 	system("pause");
 	return 0;

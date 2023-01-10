@@ -1,3 +1,8 @@
+/*
+	Lab 05 Task 02
+	Binary Search Program
+*/
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,8 @@
+/*
+	Lab 07 Task
+	Array Based Implementation of Stack
+*/
+
 #include <iostream>
 
 using namespace std;

@@ -1,3 +1,8 @@
+/*
+	Lab 05 Task 01
+	Linear Search Program
+*/
+
 #include <iostream>
 using namespace std;
 
